@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-My name is Ethan Matzdorf. I am a third-year Computer Science student at Michigan Tech University.
+My name is Ethan Matzdorf. I am a fourth-year Computer Science student at Michigan Tech University.
 
 - 🔭 I’m currently most focused on projects for school and work, plus occasional side projects on my GitHub.
-- 🧠 Much of my recent work has been in Vue.js with JavaScript and HTML/CSS. I am also familiar with Java, Node.js, and MySQL.
-- 🌱 I’m currently learning Flutter/Dart for cross-platform app development.
+- 🧠 Much of my recent work has been in Vue.js with JavaScript and HTML/CSS. I am also familiar with Java, C, Node.js, and MySQL.
 - 📫 Best way to reach me would be over email (linked on my GitHub profile).
 
 For more info about me and my projects, [visit my website](https://etekweb.net).
