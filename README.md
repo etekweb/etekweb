@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Ethan Matzdorf. I am a fourth-year Computer Science student at Michigan Tech University.
+My name is Ethan Matzdorf. I am a Michigan Tech alum in Computer Science, and am currently working as an experiential developer at [24G](https://24g.com).
 
-- 🔭 I’m currently most focused on projects for school and work, plus occasional side projects on my GitHub.
+- 🔭 I’m currently most focused on projects for work, plus occasional side projects and open-source contribution on my GitHub.
 - 🧠 Much of my recent work has been in Vue.js with JavaScript and HTML/CSS. I am also familiar with Java, C, Node.js, and MySQL.
 - 📫 Best way to reach me would be over email (linked on my GitHub profile).
 
