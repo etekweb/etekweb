@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ethan Matzdorf. I am a Michigan Tech alum in Computer Science, and am currently working as a developer at [24G](https://24g.com) / [CLUTCH Experiential]((https://www.clutchexperiential.com/).
+My name is Ethan Matzdorf. I am a Michigan Tech alum in Computer Science, and am currently working as a developer at [24G](https://24g.com) / [CLUTCH Experiential](https://www.clutchexperiential.com/).
 
 - 🔭 I’m currently most focused on projects for work, plus occasional side projects and open-source contribution on my GitHub.
 - 🧠 Much of my recent work has been in Vue.js with JavaScript and HTML/CSS. I am also familiar with Java, C, Node.js, and MySQL.
